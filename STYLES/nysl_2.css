@@ -1,0 +1,152 @@
+/* titulos*/
+h1 {
+    font-size: 43px;
+    text-align: top;
+    margin: 0px;
+    display: inline-block;
+}
+
+h2 {
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    background-color: black;
+    height: 44px;
+    margin: 0px;
+}
+.header {
+    background-image: url(../imatges/design2_image1.jpg);
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* nav */
+nav a {
+    display: inline-block;
+    top: 50px;
+    right: 20px;
+    font-family: "book antiqua";
+    color: white;
+    font-weight: bold;
+}
+.home {
+    display: inline-block;
+    position: absolute;
+    top: 29px;
+    right: 487px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-style: outset;
+    border-color: black;
+    border-width: 3px;
+    background-color: blue;
+}
+
+.contact {
+    display: inline-block;
+    position: absolute;
+    top: 29px;
+    right: 380px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-style: outset;
+    border-color: black;
+    border-width: 3px;
+    background-color: blue;
+
+}
+
+.about {
+
+    display: inline-block;
+    position: absolute;
+    top: 29px;
+    right: 275px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-style: outset;
+    border-color: black;
+    border-width: 3px;
+    background-color: blue;
+}
+
+.schedule {
+    display: inline-block;
+    position: absolute;
+    top: 29px;
+    right: 153px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-style: outset;
+    border-color: black;
+    border-width: 3px;
+    background-color: blue;
+}
+
+.rules {
+    display: inline-block;
+    position: absolute;
+    top: 29px;
+    right: 50px;
+    padding-left: 23px;
+    padding-right: 23px;
+    border-style: outset;
+    border-color: black;
+    border-width: 3px;
+    background-color: blue;
+}
+
+.registration {
+    display: inline-block;
+    position: absolute;
+    top: 389px;
+    right: 190px;
+    padding-left: 23px;
+    padding-right: 23px;
+    border-style: outset;
+    border-color: black;
+    border-width: 3px;
+    background-color: blue;
+    
+}
+.information {
+    display: inline-block;
+    position: absolute;
+    top: 389px;
+    right: 30px;
+    padding-left: 23px;
+    padding-right: 23px;
+    border-style: outset;
+    border-color: black;
+    border-width: 3px;
+    background-color: blue;
+}
+.active {
+    background-color: green;
+}
+
+
+/* información*/
+.info {
+    width: 70%;
+    display: inline-block;
+    margin: 0px 50px 30px 200px;
+    font-family: "book antiqua";
+}
+.titulo {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+/* logo*/
+
+.logo {
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    left: 20px;
+    top: 469px;
+}
+
+ 
